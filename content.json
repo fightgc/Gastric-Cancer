@@ -27,19 +27,19 @@
                     "癌症治療",
                     "繁體中文",
                     "克莫抗癌注射劑",
-                    "肺癌",
-                    "肝癌",
                     "乳癌",
+                    "肝癌",
+                    "肺癌",
                     "食道癌",
                     "癌症藥物介紹",
                     "藥物教程"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -51,17 +51,17 @@
                     "胃癌",
                     "愛服妥錠",
                     "Gastric Cancer",
-                    "肝癌",
                     "Votubia",
                     "乳癌",
+                    "肝癌",
                     "Breast Cancer",
                     "癌症藥物介紹",
                     "Liver Cancer"
                 ],
                 "website": [
-                    "Gastric Cancer",
+                    "Breast Cancer",
                     "Liver Cancer",
-                    "Breast Cancer"
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -83,11 +83,11 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
+                    "Esophageal Cancer",
                     "Pancreatic Cancer",
-                    "Esophageal Cancer"
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -898,11 +898,11 @@
                     "轉移性膀胱內型細胞腫瘤"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -914,8 +914,8 @@
                     "胃癌",
                     "癌症治療",
                     "希思鉑定注射液",
-                    "肺癌",
                     "肝癌",
+                    "肺癌",
                     "CISPLATIN INJECTION 1MG/ML",
                     "乳腺癌",
                     "作用機制",
@@ -926,11 +926,11 @@
                     "治療適應症"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
