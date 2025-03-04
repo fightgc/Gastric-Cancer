@@ -1145,6 +1145,51 @@
                 ]
             },
             {
+                "titles": "待朗必信靜脈凍晶注射劑５０公絲(DOXORUBICIN MDIJI FOR I.V. INJECTION 50MG)詳解",
+                "author": "Cancerfree",
+                "no": 2301,
+                "date": "2024/11/11 04:13:00",
+                "tags": [
+                    "lung cancer",
+                    "chemotherapy",
+                    "gastric cancer",
+                    "breast cancer",
+                    "liver cancer",
+                    "癌症藥物介紹",
+                    "待朗必信靜脈凍晶注射劑５０公絲(DOXORUBICIN MDIJI FOR I.V. INJECTION 50MG)",
+                    "大明產業股份有限公司",
+                    "drug mechanism",
+                    "DONG-A PHARMACEUTICAL CO.",
+                    "LTD. (ANYANG FACTORY)"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "德壽魯素注射液２公絲/１公撮應用於多種癌症的治療：以臨床實證的角度深度解析",
+                "author": "Cancerfree",
+                "no": 2302,
+                "date": "2024/11/11 04:12:00",
+                "tags": [
+                    "化療藥物",
+                    "癌症治療",
+                    "德壽魯素",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
                 "titles": "速溶艾黴素注射劑50公絲 (ADRIBLASTINA RAPID DISSOLUTION 50MG)：一種針對肺癌、乳癌、卵巢癌、胃癌、肝癌的綜合介紹",
                 "author": "Cancerfree",
                 "no": 2303,
@@ -1152,21 +1197,51 @@
                 "tags": [
                     "胃癌",
                     "化療藥物",
-                    "肺癌",
+                    "乳癌",
                     "肝癌",
                     "卵巢癌",
-                    "乳癌",
+                    "肺癌",
                     "ADRIBLASTINA RAPID DISSOLUTION 50MG",
                     "癌症藥物介紹",
                     "輝瑞大藥廠股份有限公司",
                     "速溶艾黴素注射劑50公絲"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Breast Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "速溶艾黴素注射劑10毫克 (Adriblastina Rapid Dissolution 10mg) 的全面介紹",
+                "author": "Cancerfree",
+                "no": 2304,
+                "date": "2024/11/11 04:09:00",
+                "tags": [
+                    "化療",
+                    "抗癌",
+                    "癌症治療",
+                    "癌症",
+                    "藥物治療",
+                    "速溶艾黴素注射劑10毫克",
+                    "乳癌",
+                    "肺癌",
+                    "淋巴瘤",
+                    "癌症藥物介紹",
+                    "ACTAVIS ITALY S.P.A.",
+                    "輝瑞大藥廠股份有限公司",
+                    "久裕企業股份有限公司",
+                    "白血球過多症",
+                    "硬瘤"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1180,20 +1255,74 @@
                     "癌症治療",
                     "達必素注射劑",
                     "DOXORUBICIN-BRISTOL",
-                    "肺癌",
+                    "乳癌",
                     "肝癌",
                     "卵巢癌",
-                    "乳癌",
+                    "肺癌",
                     "臨床研究",
                     "癌症藥物介紹",
                     "藥物機制"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Breast Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "德壽魯素注射劑 (Doxorubicin Hydrochloride for Injection \"DBL\") 在肺癌、乳癌、卵巢癌、胃癌、肝癌治療中的使用",
+                "author": "Cancerfree",
+                "no": 2306,
+                "date": "2024/11/11 04:06:00",
+                "tags": [
+                    "胃癌",
+                    "化療",
+                    "德壽魯素",
+                    "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "艾黴素注射劑50公絲 (Adriblastina 50mg)：一種用於肺癌、乳癌、卵巢癌、胃癌、肝癌的綜合導讀",
+                "author": "Cancerfree",
+                "no": 2307,
+                "date": "2024/11/11 03:56:00",
+                "tags": [
+                    "抗癌藥物",
+                    "癌症治療",
+                    "靜脈注射",
+                    "肺癌",
+                    "臨床試驗",
+                    "乳癌",
+                    "淋巴瘤",
+                    "癌症藥物介紹",
+                    "硬瘤",
+                    "軟纖維性肉瘤",
+                    "交感神經母細胞瘤",
+                    "急慢性白血球過多症",
+                    "艾黴素注射劑５０公絲 (ADRIBLASTINA 50MG)",
+                    "道可唑魯比西 (DOXORUBICIN HCL)",
+                    "法瑪西亞股份有限公司",
+                    "PHARMACIA & UPJOHN S.P.A."
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1206,22 +1335,22 @@
                     "藥物介紹",
                     "癌症治療",
                     "艾黴素注射劑",
-                    "肺癌",
-                    "肝癌",
-                    "ADRIBLASTINA",
-                    "卵巢癌",
-                    "作用機制",
                     "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "ADRIBLASTINA",
+                    "作用機制",
                     "臨床研究",
                     "癌症藥物介紹",
                     "用藥須知"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Breast Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1235,23 +1364,23 @@
                     "癌症治療",
                     "力得微脂體注射劑",
                     "適應症",
-                    "肺癌",
+                    "乳癌",
                     "肝癌",
-                    "藥物簡介",
                     "卵巢癌",
+                    "肺癌",
+                    "藥物簡介",
                     "藥物用法",
                     "作用機制",
-                    "乳癌",
                     "臨床研究",
                     "癌症藥物介紹",
                     "杜薩魯比辛"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Breast Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1273,11 +1402,200 @@
                     "急慢性白血球過多症"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Breast Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "多受祿凍晶注射劑(Doxorubicin Mylan)：全面介紹與深入分析",
+                "author": "Cancerfree",
+                "no": 2311,
+                "date": "2024/11/11 03:50:00",
+                "tags": [
+                    "癌症",
+                    "多受祿凍晶注射劑",
+                    "Doxorubicin",
+                    "乳癌",
+                    "肺癌",
+                    "淋巴瘤",
+                    "臨床研究",
+                    "藥物敏感性測試",
+                    "癌症藥物介紹",
+                    "白血球過多症",
+                    "硬瘤",
+                    "軟纖維性肉瘤"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "德露斯微脂體注射劑2毫克/毫升(DOXLOX): 一種多癌症治療藥物的全面介紹",
+                "author": "Cancerfree",
+                "no": 2312,
+                "date": "2024/11/11 03:49:00",
+                "tags": [
+                    "胃癌",
+                    "藥物介紹",
+                    "抗癌藥物",
+                    "癌症",
+                    "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "作用機制",
+                    "臨床研究",
+                    "癌症藥物介紹",
+                    "治療適應症",
+                    "用藥須知",
+                    "總結展望",
+                    "德露斯微脂體注射劑2毫克/毫升(DOXLOX)"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "精金德舒癌注射液2毫克/毫升在多種癌症治療中的應用",
+                "author": "Cancerfree",
+                "no": 2313,
+                "date": "2024/11/11 03:48:00",
+                "tags": [
+                    "lung cancer",
+                    "ovarian cancer",
+                    "cancer treatment",
+                    "anticancer",
+                    "gastric cancer",
+                    "breast cancer",
+                    "liver cancer",
+                    "癌症藥物介紹",
+                    "精金\"德舒癌注射液",
+                    "doxorubicin hcl",
+                    "injection solution"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "克思癌微脂體注射劑2毫克/毫升(鹽酸杜薩魯比辛)的臨床應用與效果分析",
+                "author": "Cancerfree",
+                "no": 2314,
+                "date": "2024/11/11 03:46:00",
+                "tags": [
+                    "胃癌",
+                    "抗癌藥物",
+                    "癌症藥物",
+                    "癌症治療",
+                    "化學治療",
+                    "克思癌微脂體注射劑2毫克/毫升",
+                    "鹽酸杜薩魯比辛",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "乳腺癌",
+                    "癌症藥物介紹"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "多受祿注射劑2毫克/毫升 (Doxorubicin Mylan) 於肺癌、乳癌、卵巢癌、胃癌、肝癌的使用介紹",
+                "author": "Cancerfree",
+                "no": 2315,
+                "date": "2024/11/11 03:45:00",
+                "tags": [
+                    "胃癌",
+                    "化療藥物",
+                    "抗腫瘤藥物",
+                    "多受祿",
+                    "Doxorubicin",
+                    "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "淋巴瘤",
+                    "癌症藥物介紹",
+                    "台灣邁蘭有限公司",
+                    "復黴素",
+                    "軟纖維瘤"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "霖揚鹽酸杜薩魯比辛凍晶注射劑10毫克（Doxorubicin Hydrochloride Lyophilized Inj. 10mg \"GBC\"）之使用介紹",
+                "author": "Cancerfree",
+                "no": 2316,
+                "date": "2024/11/11 03:44:00",
+                "tags": [
+                    "藥物介紹",
+                    "癌症治療",
+                    "鹽酸杜薩魯比辛",
+                    "乳癌",
+                    "肺癌",
+                    "癌症藥物介紹",
+                    "霖揚生技製藥股份有限公司",
+                    "藥品使用指南"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "「意欣」杜索拉凍晶注射劑 (Doxora Lyophilized Injection \\\"L.L.\\\")在肺癌、乳癌、卵巢癌、胃癌、肝癌中的綜述",
+                "author": "Cancerfree",
+                "no": 2317,
+                "date": "2024/11/11 03:43:00",
+                "tags": [
+                    "胃癌",
+                    "藥物作用機制",
+                    "抗癌藥物",
+                    "化學療法",
+                    "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "意欣杜索拉凍晶注射劑",
+                    "癌症藥物介紹",
+                    "DOXORUBICIN HCL",
+                    "Doxora"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1294,11 +1612,11 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
-                    "Lung Cancer",
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Esophageal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
